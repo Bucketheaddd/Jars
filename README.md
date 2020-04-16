@@ -4,14 +4,14 @@
 
 # Chess
 ### A fully implemented chess environment which displays all legal moves of the selected piece including promotions, checks, castling, and en pessant. This requires real time calculation of potential future board states to ensure that each move does not leave the game in an illegal state.
-![Chess](demos/chess.gif)
+![Chess](demos/Chess.gif)
 
 # Flappy Bird
 ### Not much else
 ![Flappy Bird](demos/flappy_bird.gif)
 
 # Gradarius
-### An intriguing presentation of a particle system that I saw used on the calculus teaching website gradrius.com
+### An intriguing presentation of a particle system that I saw used on the calculus teaching website [gradrius.com](https://gradarius.com/)
 ![Gradarius](demos/gradarius.gif)
 
 # Maze Generation
