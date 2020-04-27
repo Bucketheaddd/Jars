@@ -4,14 +4,18 @@
 
 # Chess
 ### A fully implemented chess environment which displays all legal moves of the selected piece including promotions, checks, castling, and en pessant. This requires real time calculation of potential future board states to ensure that each move does not leave the game in an illegal state.
-![Chess](demos/Chess.gif)
+![Chess](demos/chess.gif)
+
+# Double Pendulum
+### Time Step based numerical approximation of the double pendulum with minor damping.
+![Pendulum](demos/doublependulum.gif)
 
 # Flappy Bird
 ### Not much else
 ![Flappy Bird](demos/flappy_bird.gif)
 
 # Gradarius
-### An intriguing presentation of a particle system that I saw used on the calculus teaching website [gradrius.com](https://gradarius.com/)
+### An intriguing presentation of a particle system that I saw used on the calculus teaching website gradrius.com
 ![Gradarius](demos/gradarius.gif)
 
 # Maze Generation
@@ -30,3 +34,7 @@
 # Particle System
 ### A simple particle system where every generated particle is independent and attracted to the three randomly placed planets.
 ![Particle System](demos/particle_system.gif)
+
+# Perspective Rendering
+### This is a snippet from a rendering strategy using vector projections that I developed after taking linear algebra. I found after I finished it that it is called perpsective rendering.
+![Perspective Rendering](demos/perspective_rendering.gif)
